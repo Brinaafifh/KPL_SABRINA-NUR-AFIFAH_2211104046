@@ -1,20 +1,20 @@
 {
   "student": {
-    "name": "ArwinNabielArrofif"
+    "name": "SABRINANURAFIFAH"
   },
-  "lecturerCode": "D110",
+  "lecturerCode": "Z120",
   "courses": [
     {
-      "courseCode": "101",
+      "courseCode": "120",
       "courseName": "Pemrograman Dasar"
     },
     {
-      "courseCode": "102",
+      "courseCode": "121",
       "courseName": "Struktur Data"
     },
     {
-      "courseCode": "103",
-      "courseName": "Pacal"
+      "courseCode": "1234",
+      "courseName": "Pasal"
     }
   ]
 }
